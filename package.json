@@ -17,5 +17,5 @@
  "peerDependencies": {
     "react": ">=0.13",
     "spin.js": ">=2.0"
-  },
+  }
 }
