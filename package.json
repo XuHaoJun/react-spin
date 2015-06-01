@@ -13,9 +13,9 @@
     "type": "git",
     "url": "https://github.com/thomasboyt/react-spin"
   },
-
-  "dependencies": {
-    "spin.js": "^2.0.1",
-    "react": "^0.12.0"
-  }
+  
+ "peerDependencies": {
+    "react": ">=0.13",
+    "spin": ">=2.0"
+  },
 }
